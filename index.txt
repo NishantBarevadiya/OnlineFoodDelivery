@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Home page </title>
+</head>
+<body>
+
+<h1>Hello world</h1>
+
+<h2> how are you </h2>
+<h3> einfochips </h3>
+<p> </p>
+</body>
+</html>
